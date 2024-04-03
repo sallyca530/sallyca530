@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Sally👋
 
 <!--
 **sallyca530/sallyca530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👩‍💻 Data Analyst and Biomedical Engineer
+- 🔭 I’m currently working on landing my dream job
+- 🌱 I’m currently focused on  machine learning
+- 🤔 I’m looking to work with other data enthusiasts!
+- 💬 Ask me about computational biology
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sally-anderson-184bb8133/)
+- ⚡ Fun fact: I used to be a Hair Stylist 
