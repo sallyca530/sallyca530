@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on landing my dream job
 - 🌱 I’m currently focused on  machine learning
 - 🤔 I’m looking to work with other data enthusiasts!
+- 🤖 I'm obsessed with robots
 - 💬 Ask me about computational biology
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sally-anderson-184bb8133/)
 - ⚡ Fun fact: I used to be a Hair Stylist 
