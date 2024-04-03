@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍💻 Data Analyst and Biomedical Engineer
+- 👩‍💻 Data analyst and biomedical engineer
 - 🔭 I’m currently working on landing my dream job
 - 🌱 I’m currently focused on  machine learning
 - 🤔 I’m looking to work with other data enthusiasts!
