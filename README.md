@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍💻 Data analystics | Data Science | Biomedical Engineering 
+- 👩‍💻 Data Analystics | Data Science | Data Engineering | Biomedical Engineering 
 - 🔭 I’m currently working on landing my dream job
-- 🌱 I’m currently focused on  machine learning
+- 🌱 I’m currently focused on machine learning
 - 🤔 I’m looking to work with other data enthusiasts!
 - 🤖 I'm obsessed with robots
 - 💬 Ask me about computational biology
